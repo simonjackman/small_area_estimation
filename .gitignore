@@ -1,0 +1,11 @@
+/.quarto/
+/_site/
+code
+common_data
+data
+.Rproj.user
+analysis/gan
+analysis/backtesting*
+analysis/age_elector_counts
+analysis/harmonisation
+
