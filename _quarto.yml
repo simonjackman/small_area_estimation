@@ -1,5 +1,6 @@
-#project:
-#  title: "small area estimation"
+project:
+  title: "small area estimation"
+  output-dir: docs
 date: now
 date-format: "h:mmA D MMMM YYYY"
 website:
