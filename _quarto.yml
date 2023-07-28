@@ -1,0 +1,44 @@
+#project:
+#  title: "small area estimation"
+date: now
+date-format: "h:mmA D MMMM YYYY"
+website:
+  google-analytics: 'G-DD0XG6JZDH'
+author:
+  - name: "Simon Jackman"
+    affiliation: "University of Sydney"
+    email: "simonjackman@icloud.com"
+    orcid: 0000-0001-7421-4034
+    url: https://simonjackman.netlify.app
+title-block-banner: "#2780e3"
+title-block-banner-color: white
+toc: true
+format:
+  html:
+    theme: cosmo
+    css: css/source_code_pro.css
+    toc: true
+    number-sections: true
+    fig-width: 8.25
+    fig-height: 6.5
+    echo: true
+    message: false
+    warning: false
+    code-tools: false
+    code-copy: hover
+    code-link: false
+    code-fold: true
+    smooth-scroll: true
+    self-contained: true
+    html-math-method: katex
+    emded-resources: true
+    include-in-header:
+      - file: js/external_load.js
+tbl-cap-location: bottom
+crossref:
+  tbl-title: Table
+execute:
+  keep-md: false
+  warning: false
+  error: true
+  echo: true

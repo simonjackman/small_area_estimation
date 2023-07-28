@@ -1,0 +1,13 @@
+.quarto
+common_data
+css
+js
+data
+.Rproj.user
+.Rhistory
+analysis/age_elector_counts
+analysis/backtesting*
+analysis/gan
+analysis/harmonisation
+code
+docs
